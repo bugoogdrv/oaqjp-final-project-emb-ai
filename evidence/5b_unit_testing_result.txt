@@ -1,0 +1,15 @@
+test_anger (test_emotion_detection.TestEmotionDetector)
+Verify the anger prediction. ... ok
+test_disgust (test_emotion_detection.TestEmotionDetector)
+Verify the disgust prediction. ... ok
+test_fear (test_emotion_detection.TestEmotionDetector)
+Verify the fear prediction. ... ok
+test_joy (test_emotion_detection.TestEmotionDetector)
+Verify the joy prediction. ... ok
+test_sadness (test_emotion_detection.TestEmotionDetector)
+Verify the sadness prediction. ... ok
+
+----------------------------------------------------------------------
+Ran 5 tests in 0.567s
+
+OK
